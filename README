@@ -1,0 +1,3 @@
+The genetic algorithm was done using credit card as the target variable.
+Cultural Algorithm,Particle Swarm Optimization and Ant Colony Optimization use the personal loan as the target variable.
+So a separate file was used to implement genetic algorithm.
